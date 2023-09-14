@@ -1,6 +1,7 @@
 # LinkedIn-Database
 
-![image](https://github.com/saud-py/LinkedIn-Database-/assets/57790931/dc348eb3-87e2-45b1-abbe-994ec87f0921)
+![image](https://github.com/saud-py/LinkedIn-Database/assets/57790931/a0e3ac15-f96e-4ce7-b4b3-aeb095a20303)
+
 
 ## Description
 
